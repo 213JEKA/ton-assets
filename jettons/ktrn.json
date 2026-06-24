@@ -1,0 +1,14 @@
+{
+  "name": "Keytrins",
+  "symbol": "KTRN",
+  "address": "EQCjmhHx4k0IT8E2mmyELtuXQ46Chbk0_fnXOwDwYTRvaSvv",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/213JEKA/keytrins-assets/main/keytrins_jetton_icon_variant2_256x256.png",
+  "description": "Keytrins (KTRN) is the utility token of the Keytrins ecosystem powering the TONX5MINER game and future Web3 applications.",
+  "websites": [
+    "https://keytrins.website"
+  ],
+  "social": [
+    "https://t.me/KeytrinsOfficial"
+  ]
+}
